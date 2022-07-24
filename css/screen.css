@@ -180,12 +180,12 @@ a {
 }
 
 a:hover {
-  color: #ff8080;
+  color: #87b0cc;
 }
 
 a.btn {
   text-decoration: none;
-  background-color: #ffcccc;
+  background-color: #c3d8e6;
   border-radius: 6px;
   -webkit-border-radius: 6px;
   color: #3a4145;
@@ -204,7 +204,7 @@ a.btn {
 }
 
 a.btn:hover {
-  background: #ff8080;
+  background: #87b0cc;
 }
 
 #header-arrow {
@@ -316,7 +316,7 @@ dl dd {
 }
 
 mark {
-  background-color: #ffc336;
+  background-color: white;
 }
 
 code,
@@ -473,7 +473,7 @@ ul li {
   margin-bottom: 0rem;
   text-align: center;
   color: #3a4145;
-  background: #ebcaa8 no-repeat center center;
+  background: #c3d8e6 no-repeat center center;
   background-size: cover;
 }
 
@@ -517,13 +517,24 @@ ul li {
 .post-holder {
   width: 100%;
   height: 100%;
-  background: #f2efe8;
+  background: white;
   position: relative;
 }
+
+.post-holder hr {
+  border-top: 1px solid #3a4145;
+}
+
+
 .post-holder.odd {
-  background: #ebcaa8;
+  background: #87b0cc;
   color: white;
 }
+
+.post-holder.odd hr {
+  border-top: 1px solid white;
+}
+
 
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
@@ -570,10 +581,10 @@ a.fn-item {
   color: white;
 }
 a.fn-item:hover {
-  color: #ffcccc;
+  color: #87b0cc;
 }site-menu
 a.fn-item.active {
-  color: #ff8080;
+  color: #c3d8e6;
   opacity: 1;
 }
 
@@ -586,7 +597,7 @@ a.fn-item.active {
   height: 0;
   border-left: 60px solid transparent;
   border-right: 60px solid transparent;
-  border-top: 50px solid #f2efe8;
+  border-top: 50px solid #c3d8e6;
   border-radius: 25px;
 }
 .post-after.even {
@@ -665,6 +676,12 @@ a.fn-item.active {
   display: block;
   font-size: 1.4rem;
   line-height: 1.5em;
+}
+
+.map {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* ==========================================================================
@@ -935,7 +952,7 @@ a.fn-item.active {
     left: 0px;
     z-index: 99999;
     font-size: 1rem;
-    background: #f2efe8;
+    background: white;
     width: 100%;
     height: 10%;
     text-align: center;
