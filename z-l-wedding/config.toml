@@ -6,7 +6,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "cz"
 
 # The name of this wonderful theme ;-).
-theme = "hugo-scroll"
+theme = [ "hugo-scroll" ]
 
 [languages]
   [languages.cz]
@@ -51,3 +51,7 @@ theme = "hugo-scroll"
 
     [params.meta]
         keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+
+[markup.goldmark.renderer]
+  # Allow Google Maps iframe
+  unsafe = true

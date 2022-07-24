@@ -1,9 +1,11 @@
 ---
 title: "Vemte s sebou"
-weight: 3
+weight: 4
 header_menu: true
 ---
 
-Budete potřebovat spacák.
+Je možnost přespat na chalupě v Miloticích nad Opavou, to znamená se kompletním zázemím. Dovnitř se ale nevejdeme všichni, takže pokud vám nevadí stanovat, je to určitě preferovaná varianta. Napište, pokud si s sebou přinesete **vlastní stan**, nebo budete potřebovat od nás. Rozhodně ale budete potřebovat **spacák**.
 
-Ohledně darů: Peníze jsou vždycky fajn. Pokud ale chcete něco osobnějšího (deskovku, erotickou hračku), proberte to s námi. Díky.
+---
+
+Co se darů týče, peníze se hodí vždycky. Pokud nám chcete dávat cokoliv jiného, prosím, nejdříve to s námi proberte.

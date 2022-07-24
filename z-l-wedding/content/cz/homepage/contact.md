@@ -1,11 +1,8 @@
 ---
 title: "Kontakt"
-weight: 4
+weight: 5
 header_menu: true
 ---
+Co nejdříve potvrďte, jestli a kdy přijedete.
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
-
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
-
-Let us get in touch!
+Ideálně na {{<icon class="fa fa-envelope">}}&nbsp;[zuzka.lukas.svatba@gmail.com](mailto:zuzka.lukas.svatba@gmail.com), nebo přímo jednomu z nás.
