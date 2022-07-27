@@ -1,5 +1,5 @@
 ---
-title: "Cesta"
+title: "Cesta do Bruntálu"
 weight: 2
 header_menu: true
 ---

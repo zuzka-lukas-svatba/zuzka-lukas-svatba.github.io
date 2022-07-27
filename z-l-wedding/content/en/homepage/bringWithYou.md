@@ -1,13 +1,15 @@
 ---
-title: "Vemte s sebou"
+title: "What to bring"
 weight: 4
 header_menu: true
 ---
 
-Je možnost přespat na chalupě v Miloticích nad Opavou, to znamená se kompletním zázemím. Dovnitř se ale nevejdeme všichni, takže pokud vám nevadí stanovat, je to určitě preferovaná varianta. Napište, pokud si s sebou přinesete **vlastní stan**, nebo budete potřebovat od nás. Rozhodně ale budete potřebovat **spacák**.
+Concerning the gifts, money is preferred (Euros are fine :sweat_smile:).
+
+If you want to give something more personal, please ask us first.
 
 ---
 
-Co se darů týče, peníze se hodí vždycky. Pokud nám chcete dávat cokoliv jiného, prosím, nejdříve to s námi prokonzultujte.
+If you want to sleep in the summer house in Milotice nad Opavou, definitely bring a sleeping bag. If you can also bring your tent, let us know, it will help us organise things.
 
----
+There are facilities in the summer house, so you don’t need to worry about water or a toilet.

@@ -8,6 +8,8 @@ defaultContentLanguage = "cz"
 # The name of this wonderful theme ;-).
 theme = [ "hugo-scroll" ]
 
+enableEmoji = true
+
 [languages]
   [languages.cz]
     contentDir = "content/cz"
