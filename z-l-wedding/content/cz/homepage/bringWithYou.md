@@ -10,6 +10,6 @@ Pokud nám chcete dávat cokoliv jiného, prosím, nejdříve to s námi probert
 
 ---
 
-Pokud budete přespávat na chalupě v Miloticích nad Opavou, určitě si vmete spacák. Pokud máte možnost vzít si vlastní stan, napište nám a domluvíme se. Pomůže nám to s organizací.
+Pokud budete přespávat na chalupě v Miloticích nad Opavou, určitě si vmete spacák. Pokud máte možnost, vezměte si vlastní stan a napište nám to. Pomůže nám to s organizací.
 
 Na chalupě je kompletní zázemí, takže se nemusíte bát o tekoucí vodu a toaletu.

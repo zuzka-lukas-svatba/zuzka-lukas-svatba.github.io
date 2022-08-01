@@ -8,7 +8,7 @@ Prosím nejdříve potvrďte, jestli a kdy přijedete.
 Ideálně na {{<icon class="fa fa-envelope">}}&nbsp;[zuzka.lukas.svatba@gmail.com](mailto:zuzka.lukas.svatba@gmail.com), nebo přímo jednomu z nás.
 
 Do zprávy napište:
-* Jestli se zúčastníte
+* Jestli se zúčastníte a kolik vás dojede (děti, partneři)
 * Kdy přijedete (pátek, sobota)
 * Jestli se připojíte k hostině
 * Máte-li nějaké diety nebo omezení ohledně jídla

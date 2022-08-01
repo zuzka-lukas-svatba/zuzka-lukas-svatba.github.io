@@ -4,4 +4,4 @@ weight: 2
 header_menu: true
 ---
 
-Už předem víte, že přijet v sobotu ráno je pro vás nadlidský úkol, protože vám nejednou spoje, nebo je to prostě moc daleko? Nevadí! Klidně můžete přijet už v pátek večer. Pro přespolní budeme mít v Miloticích nad Opavou na chatě nachystanou večeři, příjemný večerní spánek za doprovodu bučení krav ze sousedství, ráno snídani a v případně potřeby i odvoz na obřad.
+Pokud nejste z Bruntálu a okolí a víte že přijet v soboru ráno nebude jednoduché, přijeďte už v pátek. Přespat můžete na chalupě v Miloticích nad Opavou (kousek od Bruntálu), včetně večeře, snídaně a dopravy na obřad. Jen prosím dejte vědět, pokud a kdy v pátek přijedete, ať můžeme vše zajistit.
