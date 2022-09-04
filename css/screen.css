@@ -411,7 +411,11 @@ table table table {
 
 table tbody > tr:nth-child(odd) > td,
 table tbody > tr:nth-child(odd) > th {
-  background-color: #f6f6f6;
+  background-color: #c3d8e6;
+}
+
+table tbody > tr > td:nth-child(1) {  
+  word-break: keep-all;
 }
 
 table.plain {
@@ -986,6 +990,10 @@ a.fn-item.active {
     margin-bottom: 0rem;
   }
 
+  a.btn {
+    margin-top: 5px;
+  }
+
   .blog-title {
     font-size: 4rem;
     letter-spacing: -1px;
@@ -994,6 +1002,7 @@ a.fn-item.active {
   .blog-description {
     font-size: 2.2rem;
     line-height: 1.5em;
+    padding: 0px 50px 0px 50px;
   }
 
   .post {
@@ -1065,7 +1074,8 @@ a.fn-item.active {
     display: none;
   }
   a.btn {
-    margin-top: 10px;
+    margin-top: 5px;
+    padding: 5px 10px 5px 10px;
   }
 
   .blog-title {
@@ -1073,7 +1083,8 @@ a.fn-item.active {
   }
 
   .blog-description {
-    font-size: 2.2rem;
+    font-size: 1.8rem;
+    padding: 0px 50px 0px 50px;
   }
 
   h1,
