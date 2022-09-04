@@ -4,11 +4,40 @@ weight: 3
 header_menu: true
 ---
 
-Zde bude podrobný program.
+{{<table "table table-dark table-striped table-bordered">}}
+| <!-- --> | <!-- --> |
+|---|---|
+| 11:00 | Příjezd hostů k zámku |
+| 11:15 | Svatební obřad |
+| 12:00 | Gratulace a společné focení na zámku |
+| 12:30 | Prohlídka zámku pro zájemce |
+|  | Přesun do Milotic nad Opavou |
+| 13:30 | Příjezd hostů na svatební hostinu |
+| 14:00 | Svatební oběd |
+| 15:00 | Volná zábava |
+|  | Fotokoutek |
+|  | Tombola |
+|  | Kvíz |
+|  | Tanec |
+|  | Focení novomanželů |
+|  | Svatební soutěž pro děti |
+| 16:30 | Vyhlášení tomboly |
+| 17:00 | Vyhlášení svatební soutěže pro děti |
+|  | Rozkrojení svatebního dortu |
+| 17:30 | Hod kyticí a podvazku |
+| 18:00 | První tanec novomanželů |
+| 19:00 | Večerní raut |
+|  | Vyhodnocení kvízu |
+| 20:00 | Svatební soutěž |
+| 21:00 | Volná zábava |
+|  | Fotokoutek |
+|  | Tanec |
+|  | Grilování |
+{{</table>}}
 
 ---
 
-Obecně ale počítejte s obřadem na Bruntálském zámku a postupným přesunem na hostinu v Miloticích nad Opavou. Prosím dejte nám vědět budete-li potřebovat odvoz.
+Obřad bude na Bruntálském zámku poté se postupně přesuneme na hostinu v Miloticích nad Opavou. Prosím dejte nám vědět budete-li potřebovat odvoz.
 
 Po obřadu si můžete čekání zkrátit procházkou po zámecké zahradě a případně i prohlídku zámku. Pokud chcete, můžeme zajistit hromadnou prohlídku. Dejte nám vědět máte-li zájem.
 

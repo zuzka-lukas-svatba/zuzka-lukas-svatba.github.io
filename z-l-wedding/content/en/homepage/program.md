@@ -4,11 +4,40 @@ weight: 3
 header_menu: true
 ---
 
-The detailed programme will be posted here.
+{{<table "table table-dark table-striped table-bordered">}}
+| <!-- --> | <!-- --> |
+|---|---|
+| 11:00 | Arrival to château |
+| 11:15 | Wedding ceremony |
+| 12:00 | Congratulations and photographing in the château garden |
+| 12:30 | Tour of the château, if interested |
+|  | Transport to Milotice nad Opavou |
+| 13:30 | Arrival to Milotice nad Opavou |
+| 14:00 | Wedding reception |
+| 15:00 | Free time |
+|  | Photo booth |
+|  | Raffle |
+|  | Quiz |
+|  | Dance |
+|  | Photographing of newlyweds |
+|  | Wedding games for kids |
+| 16:30 | Announcement of raffle winners |
+| 17:00 | Announcement kids wedding game winners |
+|  | Cutting of wedding cake |
+| 17:30 | Throwing a bouquet and garter|
+| 18:00 | The first dance of newlyweds |
+| 19:00 | Evening reception |
+|  | Announcement of quiz winners |
+| 20:00 | Wedding game |
+| 21:00 | Free time |
+|  | Photo booth |
+|  | Dance |
+|  | Grilling |
+{{</table>}}
 
 ---
 
-However, the ceremony will be held in Bruntál Château, and afterwards, the reception will be held in Milotice nad Opavou. Please, let us know if you need transportation.
+The ceremony will be held in Bruntál Château, and afterwards, the reception will be held in Milotice nad Opavou. Please, let us know if you need transportation.
 
 After the ceremony, you can spend some time walking around the château gardens. Or if you like, we can organise a tour of the château (in English, of course). Let us know if you are interested.
 
