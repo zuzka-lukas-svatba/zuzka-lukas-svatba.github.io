@@ -41,6 +41,6 @@ Obřad bude na Bruntálském zámku poté se postupně přesuneme na hostinu v M
 
 Po obřadu si můžete čekání zkrátit procházkou po zámecké zahradě a případně i prohlídku zámku. Pokud chcete, můžeme zajistit hromadnou prohlídku. Dejte nám vědět máte-li zájem.
 
-Svatební hostina proběhne v Miloticích nad Opavou. Připravujeme menší doprovodný program, ale hlavně půjde o to mít pohodu. Pro děti připravujeme speciální program, aby se u stolu jen nenudili.
+Svatební hostina proběhne v Miloticích nad Opavou. Připravujeme menší doprovodný program, ale hlavně půjde o to mít pohodu. Pro děti připravujeme speciální program, aby se u stolu jen nenudili. Na hostině čekejte spoustu jídla a pití, což zahrnuje pivo, víno i nealko. Tvrdý alkohol si ale prosím doneste každý sám, podle osobních preferencí.
 
 Přímo v Miloticích nad Opavou bude možnost přespání na chalupě. Prosím dejte nám vědět, pokud budete chtít přespat. Jen pozor na to že dovnitř se asi nevejdeme všichni, takže počítejte s možností spát ve stanu nebo teepee. Pokud máte vlastní stan a nebude pro vás problém si ho vzít, napište nám.
